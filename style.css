@@ -7,11 +7,19 @@
   color: white;
 }
 
+#profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50px;
+  margin: 0 auto;
+  display: block;
+}
+
 .container { 
   max-width: 800px; 
   margin: 0 auto;
   padding: 2em;
   background-color: white;
   border-radius: 5px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
  }
