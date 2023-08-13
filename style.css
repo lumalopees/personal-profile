@@ -6,3 +6,10 @@
 #title {
   color: white;
 }
+
+.container { 
+  width: 800px; 
+  background-color: red;
+  border-radius: 5px;
+  box-shadow: 2em;
+ }
